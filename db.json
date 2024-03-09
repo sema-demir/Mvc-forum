@@ -32,6 +32,18 @@
       "user": "Mehmet",
       "title": "JSX Nedir?",
       "text": "JSXJSX JSX JSXJSXJSXJSXJSXJSXJSX"
+    },
+    {
+      "id": "7a565007-a255-49a7-93d2-cfa9231fde74",
+      "user": "Sema",
+      "title": "Reduxta sorun yasadım",
+      "text": "radar projsinde ucuslarda detayverisini göremiyorum"
+    },
+    {
+      "id": "bebd38fe-82a5-44f0-9cba-b30b01563215",
+      "user": "Sema",
+      "title": "Thunk toolkit",
+      "text": "jobapp uygulamsınada eksiklerim var cözemiyorum"
     }
   ]
 }
