@@ -14,14 +14,12 @@
       "text": "Bu nedir???",
       "date": "2023-09-11T19:13:21.364Z"
     },
-
     {
       "id": "1ad30c6e-84bc-43ff-8b4c-cd7ad4024dd6",
       "user": "Berra",
       "title": "Fireabase",
       "text": "Yeni güncellemdden sonra...."
     },
-
     {
       "id": "7a565007-a255-49a7-93d2-cfa9231fde74",
       "user": "Sema",
@@ -33,6 +31,12 @@
       "user": "Sema",
       "title": "Thunk toolkit",
       "text": "jobapp uygulamsınada eksiklerim var cözemiyorum"
+    },
+    {
+      "id": "52806432-5481-4b42-8f40-e717d6da01d6",
+      "user": "Betül",
+      "title": "React projesi",
+      "text": "Forum app da sorun yasıyorum"
     }
   ]
 }
